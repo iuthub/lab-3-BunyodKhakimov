@@ -1,0 +1,12 @@
+.header {
+	text-align: right;
+}
+
+img {
+	float: right;
+}
+
+.article{
+	clear: both;
+	overflow: auto;
+}
